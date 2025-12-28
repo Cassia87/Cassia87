@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim:<br><br>Cassia Guedes<br>👩‍💻Bancária e estudante<br>🖥️ Cursando ADS (4/5);</p>
+<p align="left">Sobre mim:<br><br>Cassia Guedes<br>👩‍💻Bancária e estudante<br>🖥️ Cursando ADS (5/5);</p>
 
 ###
 <hr>
